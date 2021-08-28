@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- Panel central -->
-    <img class="img-banner" alt="Vue logo" src="./assets/Pokemon.png" />
+    <img class="img-banner" alt="Pokemon logo" src="./assets/Pokemon.png" />
     <h2 class="my-4">PokeGuía</h2>
     <label class="mr-2">Nombre:</label>
     <input type="text" placeholder="Ingrese un pokémon" v-model="pokemonName" />
